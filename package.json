@@ -1,0 +1,25 @@
+{
+  "name": "ezreadme",
+  "version": "1.0.0",
+  "description": "An app to help you write ReadMe files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngoudeau2012/ezReadme.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Nicholas Goudeau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngoudeau2012/ezReadme/issues"
+  },
+  "homepage": "https://github.com/ngoudeau2012/ezReadme#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
