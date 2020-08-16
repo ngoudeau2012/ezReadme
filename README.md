@@ -1,5 +1,4 @@
-
-# ezReadMe
+# ezReadme
 
 ## Table of Contents
 1. [Description](#program-description)
@@ -21,13 +20,17 @@ Inquire, fs(filesystem), and util.
     
 ## How to use the Program
 Once you clone the repo to your computer, open your command line application, navigate to the repo, and type in node index.js. Answer the questions that you are prompted in the command line. Then reap the rewards of a well organized Readme with a table of contents.
+
+## Example
+![Project Image or Gif](./assets/readme.gif)
     
 ## Licenses
-Licensed under the MIT.
+Licensed under the Licensed under the MIT..
     
 ## How can you contribute?
 This is a project created for fun, there is no need to contribute to my learning.
     
 ## Where can you provide feedback?
-Please reach out to me via: email at ngoudeau2012@gmail.com
+Please reach out to me via: Please reach out to me via: email at ngoudeau2012@gmail.com
+  
   

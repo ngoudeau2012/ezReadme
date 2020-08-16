@@ -18,6 +18,11 @@ inquirer
         },
         {
             type: "input",
+            name: "projectIMG",
+            message: "Please include an image or a gif. Enter the filepath here: "
+        },
+        {
+            type: "input",
             message: "Please provide a USER story for your application",
             name: "userStory",
         },
@@ -50,5 +55,5 @@ inquirer
         console.log(answers);
         const readMe = generateMarkdown(answers);
 
-        return writeToFileAsync("README.md", readMe);
+        return writeToFileAsync("exampleREADME.md", readMe);
     })

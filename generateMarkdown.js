@@ -22,6 +22,9 @@ ${data.dependencies}
     
 ## How to use the Program
 ${data.howTo}
+
+## Example
+![Project Image or Gif](${data.projectIMG})
     
 ## Licenses
 Licensed under the ${data.license}.
